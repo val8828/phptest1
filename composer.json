@@ -1,0 +1,14 @@
+{
+    "name": "pickle/phptest1",
+    "description": "testProj",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "val8828",
+            "email": "val8828@yandex.ru"
+        }
+    ],
+    "require": {
+    }
+}
